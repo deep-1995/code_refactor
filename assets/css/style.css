@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* make new class benefit instead of benefits-cost,benefits-lead and benefit-brand  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,6 +99,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* replace class search-engine-optimization ,online-reputation-management and social-media-marketing to about  */
 .about {
     margin-bottom: 20px;
     padding: 50px;
